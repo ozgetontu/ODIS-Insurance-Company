@@ -1,0 +1,5 @@
+Mercedes 06tnt44 9 medium 450
+BMW 58INC2607 2 low 300
+AUDI 07ABA23 27 high 120
+Mercedes 01ozg01 11 medium 350
+AUDI 34nur06 5 none 490
